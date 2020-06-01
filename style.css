@@ -126,10 +126,11 @@ article h3{
 
 header{
     position: absolute;
-    top: 0px;
-    right: 23%;
+    top: -20px;
+    right: 20%;
     text-align: center;
-    margin-left: 255px;
+    
+    font-size: 1.4rem;
     
 }
 main{
@@ -170,6 +171,11 @@ article{
     text-align: center;
     margin: auto;
     width: 100%;
+    max-width: 100%;
+}
+
+.hobbies{
+    margin-top: 0px;
 }
 
                             /*Responsive big screens */
