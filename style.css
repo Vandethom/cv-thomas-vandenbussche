@@ -97,7 +97,7 @@ article h3{
     border-radius: 90px;
 }
 
-#icones{
+.icons{
     display: flex;
     justify-content: space-around;
 }
